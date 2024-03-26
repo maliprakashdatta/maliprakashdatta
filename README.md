@@ -1,5 +1,5 @@
--  •	<h2>Hello,</h>
--  <h2 bgcolor="skyblue">👋 Hi, I’m prakash</h2>
+-  	<h2>Hello,</h>
+-  <h2> <p bgcolor="skyblue">👋 Hi, I’m prakash</p></h2>
 
 My name is [Mali Prakash Datta ], and I am [34] years old. I currently reside in [Sangli]. I am passionate about [coding], and I enjoy [Searching new ideas about programming]. In terms of my education, I [BCA,MCA ], and I am particularly interested in [computer Language]
 
