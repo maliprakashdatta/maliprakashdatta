@@ -1,5 +1,5 @@
 -  Hello,
--  👋 Hi, I’m @maliprakashdatta
+-  👋 Hi, I’m prakash
 
 My name is [Mali Prakash Datta ], and I am [34] years old. I currently reside in [Sangli]. I am passionate about [coding], and I enjoy [Searching new ideas about programming]. In terms of my education, I [BCA,MCA ], and I am particularly interested in [computer Language]
 
