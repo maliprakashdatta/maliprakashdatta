@@ -5,7 +5,7 @@ My name is [Mali Prakash Datta ], and I am [34] years old. I currently reside in
 
 Professionally, I have experience in [1 years ]. I am known for my [Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness.], and I am always eager to [Focus on Goal].
 
-In my free time, I like to [Your Additional Hobbies or Interests], and I find joy in [Your Favorite Pastimes]. I am excited to [Your Expectations or Reasons for Introducing Yourself], and I look forward to [Your Hopes or Future Interactions].
+In my free time, I like to [News Paper reading], and I find joy in [Your Favorite Pastimes]. I am excited to [Your Expectations or Reasons for Introducing Yourself], and I look forward to [Your Hopes or Future Interactions].
 
 Thank you for taking the time to learn a bit about me! 
 - 🌱 I’m currently learning ..
