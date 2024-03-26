@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmimg
 - Hello,
 
-My name is [Mali Prakash d], and I am [34] years old. I currently reside in [Sangli]. I am passionate about [coding], and I enjoy [Searching new ideas about programming]. In terms of my education, I [Your Education Level or Current Educational Pursuits], and I am particularly interested in [Your Field of Study or Career Aspirations].
+My name is [Mali Prakash Datta ], and I am [34] years old. I currently reside in [Sangli]. I am passionate about [coding], and I enjoy [Searching new ideas about programming]. In terms of my education, I [BCA,MCA ], and I am particularly interested in [computer Language]
 
 Professionally, I have experience in [Your Relevant Work Experience or Skills]. I am known for my [Your Key Strengths or Characteristics], and I am always eager to [Your Goals or Ambitions].
 
