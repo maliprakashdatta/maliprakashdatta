@@ -1,4 +1,4 @@
--<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/383c9237-75aa-4fba-83f6-8292cf3a0164" width="800" height="200">
+-<image src="https://www.linkedin.com/pulse/intro-coding-its-so-scary-june-jeng" width="800" height="200">
 -  	<h2>Hello,</h>
 -  <h2> <p bgcolor="skyblue">👋 Hi, I’m Prakash</p></h2>
 
