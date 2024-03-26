@@ -1,5 +1,14 @@
 - 👋 Hi, I’m @maliprakashdatta
-- 👀 I’m interested in programmimg 
+- 👀 I’m interested in programmimg
+- Hello,
+
+My name is [Mali Prakash d], and I am [34] years old. I currently reside in [Sangli]. I am passionate about [coding], and I enjoy [Searching new ideas about programming]. In terms of my education, I [Your Education Level or Current Educational Pursuits], and I am particularly interested in [Your Field of Study or Career Aspirations].
+
+Professionally, I have experience in [Your Relevant Work Experience or Skills]. I am known for my [Your Key Strengths or Characteristics], and I am always eager to [Your Goals or Ambitions].
+
+In my free time, I like to [Your Additional Hobbies or Interests], and I find joy in [Your Favorite Pastimes]. I am excited to [Your Expectations or Reasons for Introducing Yourself], and I look forward to [Your Hopes or Future Interactions].
+
+Thank you for taking the time to learn a bit about me! 
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ....
