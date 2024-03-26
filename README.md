@@ -13,10 +13,10 @@
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/69ebf276-ac9e-4c93-aa86-b563a715498f" width="80" height="80">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/6f2072ef-d7d4-436b-9992-b43b558a9915" width="80" height="80">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/8213ffdf-6348-49c6-a270-41c0ee2cd517" width="70" height="70">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="80" height="80">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="80" height="80"></br>
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="80" height="80">
   <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1740183-97cf-49bc-915e-56983f6b69ee" width="100" height="80">
-   <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="100" height="80"></image></br>
+   <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="100" height="80"></image>
      <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="100" height="80">
 <!---
 maliprakashdatta/maliprakashdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
