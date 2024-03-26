@@ -2,13 +2,13 @@
 -  	<h2>Hello,</h>
 -  <h2> <p bgcolor="skyblue">👋 Hi, I’m Prakash</p></h2>
 
-<h3>My name is Mali Prakash Datta , and I am 34 years old. I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language
+<h5>My name is Mali Prakash Datta , and I am 34 years old. I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language
 
 Professionally, I have experience in 1 years . I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness., and I am always eager to Focus on Goal.
 
 In my free time, I like to News Paper reading, and I find joy in driveing . 
 
-Thank you for taking the time to learn a bit about me! </h3>
+Thank you for taking the time to learn a bit about me! </h5>
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ....
