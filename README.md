@@ -1,4 +1,4 @@
--<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/eac6d31c-77de-4f42-8af6-8bc35abe7fc5" width="900" height="230">
+-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/eac6d31c-77de-4f42-8af6-8bc35abe7fc5" width="900" height="230"><hr>
 -  	<h2>Hello,</h>
 -  <h2> <p bgcolor="skyblue">👋 Hi, I’m Prakash</p></h2>
 
