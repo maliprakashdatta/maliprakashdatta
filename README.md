@@ -33,10 +33,10 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
     <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1f6f9afd-b164-4912-8eb4-10d22ea7d0a3" width="80" height="50">
     <hr>
       <h3><p style="color:red">Social Media </p></h3>
-      <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/691677b6-9650-429f-a0b7-464e1d7cc7c9" width="60" height="40">
-        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7be531e4-1ce2-452e-9e9b-064ab574c434" width="40" height="40">
-        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/bf96aeaf-659a-4040-82dc-38dc02c144fb" width="40" height="40">
-        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/889298af-4ce8-43ec-bd38-c76f29dddd74" width="40" height="40"
+      <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/691677b6-9650-429f-a0b7-464e1d7cc7c9" width="30" height="40">
+        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7be531e4-1ce2-452e-9e9b-064ab574c434" width="30" height="30">
+        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/bf96aeaf-659a-4040-82dc-38dc02c144fb" width="30" height="30">
+        <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/889298af-4ce8-43ec-bd38-c76f29dddd74" width="30" height="30"
         <image src="" width="80" height="50"
 <!---
 maliprakashdatta/maliprakashdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
