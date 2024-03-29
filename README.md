@@ -4,7 +4,7 @@
 
 <h3>My name is Mali Prakash Datta, and I am 34 years old. I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language<br>
 
-Professionally, I have experience in 1 years . I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness., and I am always eager to Focus on Goal.<br>
+Professionally, I have experience in  years . I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness., and I am always eager to Focus on Goal.<br>
 
 In my free time, I like to News Paper reading, and I find joy in driveing . </h3>
 
@@ -28,9 +28,9 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/2498641c-fc9d-44ce-9a5d-50e97a6d9bdc" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d496a25b-f49c-4e64-9ac4-7ed2f058139b" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/c78452e8-ee78-40f5-939e-3da905112fb4" width="80" height="50">
- <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/629e45a2-9c7b-44b5-abc9-772bf6c3d94b" width="80" height="50">
- <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1f1b440-1a1c-4ebc-b5fa-2293bf17114b" width="80" height="50">
-    <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1f6f9afd-b164-4912-8eb4-10d22ea7d0a3" width="80" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/629e45a2-9c7b-44b5-abc9-772bf6c3d94b" width="80" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1f1b440-1a1c-4ebc-b5fa-2293bf17114b" width="80" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1f6f9afd-b164-4912-8eb4-10d22ea7d0a3" width="80" height="50">
     <hr>
       <h3><p style="color:red">Social Media </p></h3>
       <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/691677b6-9650-429f-a0b7-464e1d7cc7c9" width="30" height="30">
