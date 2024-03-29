@@ -32,7 +32,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1f1b440-1a1c-4ebc-b5fa-2293bf17114b" width="80" height="50">
     <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1f6f9afd-b164-4912-8eb4-10d22ea7d0a3" width="80" height="50">
     <hr>
-      <h3>Social Media </h3>
+      <h3><p style="color:red;">Social Media </p></h3>
 <!---
 maliprakashdatta/maliprakashdatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
