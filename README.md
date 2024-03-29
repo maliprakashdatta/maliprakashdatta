@@ -19,9 +19,9 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/3592e6d1-22a9-4458-a48e-47284ecb8330" wwidth="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50"></br>
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50"></br>
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1c03861d-4d20-472e-92c7-9e12654c3362" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/49d063e5-3cc7-4ba3-8343-1bd4029d7314" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/501f2ba3-2813-4011-b902-a86d2b1d13e8" width="50" height="50">
