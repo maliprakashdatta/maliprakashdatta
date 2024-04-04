@@ -13,7 +13,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <hr>
 <table border="1">
   <tr>
-    <td> Frant End</td>
+    <td> Frant End-</td>
     <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d5d65e4c-eb17-4ef2-829f-72e0ef718e4a" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/9f81b3b4-cd04-410d-b741-28845846f7e3" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/69ebf276-ac9e-4c93-aa86-b563a715498f" width="50" height="50">
@@ -27,7 +27,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 </td>
   </tr>
   <tr>
-    <td> Back End</td>
+    <td> Back End-</td>
     <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50"></td>
   </tr>
@@ -37,7 +37,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 
   </tr>
   <tr>
-    <td> Development Tools</td>
+    <td> Development Tools-</td>
     <td> 
     <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50">
@@ -52,7 +52,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
   </tr>
 </table>
 <hr>
-      Social Media---><br>
+      Social Media-<br>
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1bc63c7-43fb-4ad8-8378-e5d220bedbc6" width="30" height="30">
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7be531e4-1ce2-452e-9e9b-064ab574c434" width="30" height="30">
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/bf96aeaf-659a-4040-82dc-38dc02c144fb" width="30" height="30">
