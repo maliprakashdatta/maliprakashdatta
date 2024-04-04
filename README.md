@@ -33,8 +33,10 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
   <tr> 
   <td> Server</td>
   <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/629e45a2-9c7b-44b5-abc9-772bf6c3d94b" width="80" height="50"></td>
-  
-  
+
+  </tr>
+  <tr>
+    <td> Development Tools</td>
   </tr>
 </table>
 
