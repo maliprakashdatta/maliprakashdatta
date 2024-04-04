@@ -25,11 +25,12 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
   </tr>
   <tr>
     <td> Back End</td>
+    <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50"></td>
   </tr>
 </table>
 
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50">
+
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50"></br>
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1c03861d-4d20-472e-92c7-9e12654c3362" width="50" height="50">
