@@ -53,7 +53,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 </table>
 <hr>
    
-      <b>Social Media</b>
+      <h3>Social Media</h3>
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1bc63c7-43fb-4ad8-8378-e5d220bedbc6" width="30" height="30">
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7be531e4-1ce2-452e-9e9b-064ab574c434" width="30" height="30">
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/bf96aeaf-659a-4040-82dc-38dc02c144fb" width="30" height="30">
