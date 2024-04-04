@@ -37,11 +37,8 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
   </tr>
   <tr>
     <td> Development Tools</td>
-  </tr>
-</table>
-
-
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
+    <td> 
+    <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50"></br>
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1c03861d-4d20-472e-92c7-9e12654c3362" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/49d063e5-3cc7-4ba3-8343-1bd4029d7314" width="50" height="50">
@@ -53,6 +50,12 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1f1b440-1a1c-4ebc-b5fa-2293bf17114b" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/1f6f9afd-b164-4912-8eb4-10d22ea7d0a3" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/43a113bb-ef4d-4da8-972d-e8d8ec0b97a2" width="70" height="50">
+    </td>
+  </tr>
+</table>
+
+
+
     <hr>
       <h3><p style="color:red">Social Media </p></h3>
  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1bc63c7-43fb-4ad8-8378-e5d220bedbc6" width="30" height="30">
