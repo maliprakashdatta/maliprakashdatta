@@ -14,6 +14,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <table border="1">
   <tr>
     <td> Frant End</td>
+    <td> Frant End</td>
   </tr>
   <tr>
     <td> Back End</td>
