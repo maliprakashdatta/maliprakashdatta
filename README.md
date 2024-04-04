@@ -2,6 +2,7 @@
 -  	<h1>Hello,</h1>
   <h2> <p bgcolor="skyblue">hi 👋 , a warm welcome</p></h2>
 -<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/eac6d31c-77de-4f42-8af6-8bc35abe7fc5" width="1100" height="230"><hr>
+  
 <h3>My name is Mali Prakash Datta, and I am 34 years old. I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language<br>
 
 Professionally, I have experience in  years . I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness., and I am always eager to Focus on Goal.<br>
