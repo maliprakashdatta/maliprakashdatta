@@ -21,7 +21,9 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/8213ffdf-6348-49c6-a270-41c0ee2cd517" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/0772b70b-9dc9-4df7-acc2-a221f0f888d5" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/3592e6d1-22a9-4458-a48e-47284ecb8330" wwidth="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50"></td>
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">
+  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d496a25b-f49c-4e64-9ac4-7ed2f058139b" width="80" height="50">
+</td>
   </tr>
   <tr>
     <td> Back End</td>
@@ -43,7 +45,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h3
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/49d063e5-3cc7-4ba3-8343-1bd4029d7314" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/501f2ba3-2813-4011-b902-a86d2b1d13e8" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/2498641c-fc9d-44ce-9a5d-50e97a6d9bdc" width="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d496a25b-f49c-4e64-9ac4-7ed2f058139b" width="80" height="50">
+
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/c78452e8-ee78-40f5-939e-3da905112fb4" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/629e45a2-9c7b-44b5-abc9-772bf6c3d94b" width="80" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/f1f1b440-1a1c-4ebc-b5fa-2293bf17114b" width="80" height="50">
