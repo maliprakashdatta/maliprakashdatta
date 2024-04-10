@@ -3,7 +3,7 @@
   <h2> <p bgcolor="skyblue">hi 👋 , a warm Welcome</p></h2>    
 -<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/cd348108-2053-4985-aea2-82a88a991daf" width="1100" height="230"><hr>
    
-<h5><image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ac6c7a66-8e9b-46e5-90ff-e50e93012c72" width="20" height="20">My name is Mali Prakash Datta, <br> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/9c0c2a66-5970-4348-9e2d-762aac3881a5" width="20" height="20">I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language<br>
+<h5><image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ac6c7a66-8e9b-46e5-90ff-e50e93012c72" width="30" height="30">My name is Mali Prakash Datta, <br> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/9c0c2a66-5970-4348-9e2d-762aac3881a5" width="30" height="30">I currently reside in Sangli. I am passionate about coding, and I enjoy Searching new ideas about programming. In terms of my education, I BCA,MCA , and I am particularly interested in Computer Language<br>
 
 Professionally, I have experience in  years . I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness., and I am always eager to Focus on Goal.<br>
 
