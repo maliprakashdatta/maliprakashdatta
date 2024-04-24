@@ -5,7 +5,7 @@
     
 --> I am known for my Innovation:  By leveraging the latest technologies and adopting innovative approaches, we develop cutting-edge solutions that drive business growth and enhance competitiveness.<br>--> I am always eager to Focus on Goal.<br>    
          
-In my free time, I like to News Paper reading, and I find joy in driveing . </h5>                
+In my free time, I like to News Paper reading, and I find joy in driveing . </h5>                 
       
 <h4>Thank you for taking the time to learn a bit about me!</h>            
 <hr>       
