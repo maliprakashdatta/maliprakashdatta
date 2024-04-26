@@ -8,7 +8,7 @@
 In my free time, I like to News Paper reading, and I find joy in driveing . </h5>                  
        
 <h4>Thank you for taking the time to learn a bit about me!</h>            
-<hr>       
+<hr>        
 <table border="5"> 
   <tr>  
     <td> Frant End-</td>
