@@ -34,7 +34,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
   <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/629e45a2-9c7b-44b5-abc9-772bf6c3d94b" width="80" height="50"></td>
   </tr>
   <tr> 
-    <td> Development Tools-</td>
+    <td> Development Tools-</td> 
     <td> 
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/7a9a827e-3986-4654-b0dd-da3f4b47d5d1" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e5da4e1e-bd5e-4329-82c1-0411d6b10c9c" width="50" height="50">
