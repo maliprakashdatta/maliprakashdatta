@@ -60,5 +60,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 
 <hr>
 <h2>Profile Visits</h2>
-<a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=4kzls1spbwaghzr1wap5rh1sbft7b3ar" border="0" title="website hit counter" alt="website hit counter"></a>
-
+<div id="sfc8xusfpn3tc29mqpm6qx58hnl38uasajm"></div>
+<script type="text/javascript" src="https://counter2.optistats.ovh/private/counter.js?c=8xusfpn3tc29mqpm6qx58hnl38uasajm&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=8xusfpn3tc29mqpm6qx58hnl38uasajm" border="0" title="page counter" alt="page counter"></a></noscript>
+<hr>
