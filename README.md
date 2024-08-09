@@ -58,3 +58,9 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/444e2154-e936-4f8d-af66-c7589577648b" width="30" height="30"> 
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/3df79448-0c7d-4378-905a-063c1bb77665" width="80" height="30">
 
+<hr>
+<h2>Profile Visits</h2>
+<div id="sfc4kzls1spbwaghzr1wap5rh1sbft7b3ar"></div>
+<script type="text/javascript" src="https://counter2.optistats.ovh/private/counter.js?c=4kzls1spbwaghzr1wap5rh1sbft7b3ar&down=async" async></script>
+<noscript><a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=4kzls1spbwaghzr1wap5rh1sbft7b3ar" border="0" title="website hit counter" alt="website hit counter"></a></noscript>
+
