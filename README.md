@@ -60,4 +60,6 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 
 <hr>
 <h2>Profile Visits</h2>
+<a href="file:///C:/Users/RRC%202/Desktop/hit.html"></a>
+<hr>
 <a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=8xusfpn3tc29mqpm6qx58hnl38uasajm" border="0" title="page counter" alt="page counter"></a>
