@@ -60,5 +60,7 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 
 <hr>
 <h2>Profile Visits</h2>
-<noscript><a href="https://www.freecounterstat.com" title="web visitor counter"><img src="https://counter2.optistats.ovh/private/freecounterstat.php?c=m3rk44u2zlluzrtckmzmq61yee1m3347" border="0" title="web visitor counter" alt="web visitor counter"></a></noscript>
+
+## Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{maliprakashdatta}/count.svg)
 
