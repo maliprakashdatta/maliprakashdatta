@@ -64,6 +64,10 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 ## Profile Visits
 ![Visitor Count](https://profile-counter.glitch.me/{maliprakashdatta}/count.svg)
 
+### Badges
+| <a href="https://github.com/maliprakashdatta/maliprakashdatta">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kodtodya&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Avadhut's github stats" /></a> | <a href="https://github.com/kodtodya/kodtodya"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodtodya&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
 
 <b>My GitHub Stats</b>
 
