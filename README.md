@@ -18,16 +18,19 @@ In my free time, I like to News Paper reading, and I find joy in driveing . </h5
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/69ebf276-ac9e-4c93-aa86-b563a715498f" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/6f2072ef-d7d4-436b-9992-b43b558a9915" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/8213ffdf-6348-49c6-a270-41c0ee2cd517" width="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/0772b70b-9dc9-4df7-acc2-a221f0f888d5" width="50" height="50"> 
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/3592e6d1-22a9-4458-a48e-47284ecb8330" wwidth="50" height="50">
-<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">
-  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d496a25b-f49c-4e64-9ac4-7ed2f058139b" width="80" height="50">
-      
+
 </td>  
   </tr> 
   <tr> 
     <td> Back End-</td>
-    <td> <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
+      
+    <td> 
+    <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/0772b70b-9dc9-4df7-acc2-a221f0f888d5" width="50" height="50"> 
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/3592e6d1-22a9-4458-a48e-47284ecb8330" wwidth="50" height="50">
+<image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">
+  <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/d496a25b-f49c-4e64-9ac4-7ed2f058139b" width="80" height="50">
+      
+    <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/ea745403-7165-4d8a-a932-46788fc66e6b" width="50" height="50">
 <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/e0690878-c85c-483d-aedc-7ea178bbc4be" width="50" height="50"></td>
   </tr>
   <tr> 
