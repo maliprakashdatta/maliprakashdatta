@@ -1,4 +1,4 @@
-<h2> <p bgcolor="skyblue">hii👋, a warm Welcome...</p></h2>                         
+<h2> <p bgcolor="skyblue">hii👋, a warm Welcome...</p></h2>                          
 -<image src="https://github.com/user-attachments/assets/fe20a945-3d0c-4445-9efd-4d492483e5b5" width="1100" height="230">
     <h3>Java  Full-Stack-Developer</h3>                        
 <h5><image  src="https://github.com/maliprakashdatta/java-example/assets/152262211/ac6c7a66-8e9b-46e5-90ff-e50e93012c72" width="30" height="20">My name is  Prakash, <br>  
